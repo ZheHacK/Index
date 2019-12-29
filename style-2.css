@@ -1,0 +1,5 @@
+@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:url(/css/fonts/OpenSans-SemiBold.ttf);}
+body{text-align:left;margin:0;}
+#button{max-width:320px;}
+#button a{color:#ffffff;background-color:#0087cf;font-size:16px;font-family:'Open Sans', sans-serif;font-weight:600;line-height:38px;text-align:center;text-decoration:none;text-overflow:ellipsis;white-space:nowrap;width:93.75%;height:38px;border-radius:3px;padding:0 3.125%;display:block;overflow:hidden;} /*p:10px;*/
+#button a #progress{font-size:16px !important;}
